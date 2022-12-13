@@ -1,0 +1,12 @@
+umap-learn
+bertopic
+gensim
+sklearn
+matplotlib==3.6.2
+notebook==6.5.1
+pandas
+fasttext
+stanza
+Python >=3.7
+spacy
+plotnine
