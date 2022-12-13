@@ -13,15 +13,15 @@ To reproduce the flow of exploration, first download your personal Telegram data
 Then proceed to .ipynb file which contains data manipulation and visualization.
 
 ## Requirements
-umap-learn
-bertopic
-gensim
-sklearn
-matplotlib==3.6.2
-notebook==6.5.1
-pandas
-fasttext
-stanza
-Python >=3.7
-spacy
-plotnine
+umap-learn <br />
+bertopic <br />
+gensim <br />
+sklearn <br />
+matplotlib==3.6.2 <br />
+notebook==6.5.1 <br />
+pandas <br />
+fasttext <br />
+stanza <br />
+Python >=3.7 <br />
+spacy <br />
+plotnine <br />
